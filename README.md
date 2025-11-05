@@ -10,9 +10,7 @@
 
 ### change_gcp_account.sh
 
-切換多個 Google GCP 帳號，需要先新增 email_array 以及下方的 case 欄位，並輸入想命名的 configurations 以及設定 default 的 cluster name
-
-cluster 格式是：gke_{PROJECT_ID}\_{ZONE}_{CLUSTER_NAME}
+切換多個 Google GCP 帳號，需要先新增 emails 以及 projects
 
 <br>
 
